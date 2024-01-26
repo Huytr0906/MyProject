@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Sample Page</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Sample Page</h1>
+    </header>
+    <main>
+        <section>
+            <h2>My Favorite Fruits</h2>
+            <ul>
+                <li>Apples</li>
+                <li>Bananas</li>
+                <li>Oranges</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Images of Nature</h2>
+            <img src="path_to_your_image_1.jpg" alt="Nature Image 1">
+            <img src="path_to_your_image_2.jpg" alt="Nature Image 2">
+            <img src="path_to_your_image_3.jpg" alt="Nature Image 3">
+        </section>
+    </main>
+    <footer>
+        <p>Find more information on <a href="https://www.wikipedia.org" target="_blank">Wikipedia</a>.</p>
+    </footer>
+</body>
+</html>
